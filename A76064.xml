@@ -1,0 +1,2121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hallelujah. Or certain hymns, composed out of Scripture, to celebrate some special and publick occasions. By W.B. M.A. With two more lately composed by a wel-wisher to the Parliament of the Common-wealth of England. Upon occasion of those two glorious and most remarkable appearances of God for them, at Dunbar and Worcester: both upon that memorable day Septemb. 3. 1650. 1651.</title>
+            <author>Barton, William, 1598?-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76064</idno>
+            <idno type="STC">Wing B1002</idno>
+            <idno type="STC">Thomason E1300_5</idno>
+            <idno type="STC">ESTC R209004</idno>
+            <idno type="EEBO-CITATION">99867915</idno>
+            <idno type="PROQUEST">99867915</idno>
+            <idno type="VID">169736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 174:E1300[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hallelujah. Or certain hymns, composed out of Scripture, to celebrate some special and publick occasions. By W.B. M.A. With two more lately composed by a wel-wisher to the Parliament of the Common-wealth of England. Upon occasion of those two glorious and most remarkable appearances of God for them, at Dunbar and Worcester: both upon that memorable day Septemb. 3. 1650. 1651.</title>
+                  <author>Barton, William, 1598?-1678.</author>
+               </titleStmt>
+               <extent>52, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock, and are to be sold in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.B. = William Barton. Barton's name is given in an acrostic poem following page 52.</note>
+                  <note>Annotation in Thomason copy: "October. 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With final imprimatur leaf.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hymns, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169736:1" rendition="simple:additions"/>
+            <p>
+               <hi>HALLEL<g ref="char:V">Ʋ</g>JAH.</hi> Or Certain HYMNS, Compoſed out of Scripture, to celebrate ſome ſpecial and Publick Occaſions.</p>
+            <p>By W. B. <hi>M. A.</hi>
+            </p>
+            <p>With two more lately Com<g ref="char:EOLhyphen"/>poſed by a Wel-wiſher to the Par<g ref="char:EOLhyphen"/>liament of the Common-Wealth of <hi>ENGLAND.</hi>
+            </p>
+            <p>Upon Occaſion of thoſe two Glorious and moſt Remarkable Appearances of God for them, at <hi>Dunbar</hi> and <hi>Worcester:</hi> both upon that Memorable Day <hi>Septemb.</hi> 3.
+<list>
+                  <item>1650.</item>
+                  <item>1651.</item>
+               </list>
+            </p>
+            <q>
+               <p>Then on that day <hi>David</hi> delivered firſt this Pſalm to thank the Lord, into the hand of <hi>Aſaph</hi> and his brethren. <bibl>
+                     <hi>1 Chron. 16.7.</hi>
+                  </bibl>
+               </p>
+               <p>He hath put a new Song into my mouth, even a <hi>Thanksgiving</hi> unto our God. <bibl>
+                     <hi>Pſal. 40 3.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>LONDON, Printed by <hi>J. Macock,</hi> and are to be ſold in <hi>Popes head Alley.</hi> 1651.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169736:2"/>
+            <head>An HYMN to the <hi>PARLIAMENT.</hi>
+            </head>
+            <lg>
+               <l>HOw great a crown of glory</l>
+               <l>Hath God ſet on your Head!</l>
+               <l>And brought you into Story</l>
+               <l>Of all men to be read!</l>
+            </lg>
+            <lg>
+               <l>A thouſand thouſand Pages</l>
+               <l>Your Chronicle ſhall write,</l>
+               <l>And all enſuing ages</l>
+               <l>Shall read it with delight.</l>
+            </lg>
+            <lg>
+               <l>The work of Reformation,</l>
+               <l>And wonders of the wars</l>
+               <l>Shall ring, in acclamation,</l>
+               <l>Church-bels, above the ſtars.</l>
+            </lg>
+            <lg>
+               <l>And as you have enſured</l>
+               <l>A day to God in ſeven,</l>
+               <l>To you there is procured</l>
+               <l>An houſe of rest in Heaven.</l>
+            </lg>
+            <lg>
+               <l>Which for your faith and labour</l>
+               <l>Shall He, which glorious ſhone</l>
+               <l>With Moſes on Mount Tabor,</l>
+               <l>Vouchſafe to Saints alone.</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169736:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169736:3"/>
+            <pb facs="tcp:169736:3"/>
+            <head>To the Reader.</head>
+            <p>REader, theſe <hi>Hymns</hi> or Songs of Praiſe, thou wilt finde exprest in Scripture phraſe, in which thoſe who are acquainted with that dialect (and can ſpeak the language of <hi>Canaan</hi>) do finde more vigour and quickning then in any other words or phraſes of our own Compoſing: And they are publiſhed for the uſe of thoſe who uſe to praiſe the Lord with the words of <hi>David</hi> the ſweet Singer of <hi>Iſrael,</hi> and in the words of <hi>Aſaph, He<g ref="char:EOLhyphen"/>man, Moſes,</hi> and other holy men of God, who ſpake as they were directed by the Spirit of God. And they pro<g ref="char:EOLhyphen"/>perly ſerve for the uſe of thoſe who can <hi>now</hi> ſing the Songs of <hi>Sion</hi> in their own Land, and in their own language, together with the Song of <hi>Moſes</hi> and of the Lamb, And who can indeed Rejoyce now in this <hi>great Salvation,</hi> and <hi>ſerve</hi> the preſent Providence of their God in their generation; who can ſing with the Spirit, and who can ſing with
+<pb facs="tcp:169736:4"/> underſtanding alſo; who can ſing forth the high praiſes of God with their <hi>mouth,</hi> and ſay, <hi>Awake my Glory:</hi> who can alſo ſing with grace in their <hi>hearts,</hi> to the Lord making melody: who can ſpeak to themſelves and alſo teach one another in <hi>Pſalms</hi> and <hi>Hymns</hi> and <hi>Spiritual Songs:</hi> Who can ſing unto the Lord with the voyce of a <hi>Pſalm,</hi> who can come before his pre<g ref="char:EOLhyphen"/>ſence with a <hi>Song,</hi> and ſhew themſelvs glad in him with <hi>Pſalms;</hi> who can make a joyfull noiſe unto him with <hi>Pſalms:</hi> To ſuch I ſay, Sing unto him, ſing <hi>Pſalms</hi> unto him, and talk of all his wondrous works; for he hath ſo done all his Wonderfull Works that they ought to be had in everlaſting re<g ref="char:EOLhyphen"/>membrance. O Let his Saints bleſſe him, let them now ſpeak of the glory of his Kingdome and talk of his power, and make known to the Sons of men his mighty Acts. And according to this Time, let it be ſaid of Jacob, and of Iſrael, (of Scotland and of England) <hi>What hath God Wrought?</hi> Lo, what hath the Lord done, even in the valley of <hi>Deciſion?</hi> Behold Multitudes,
+<pb facs="tcp:169736:4"/> Multitudes of Enemies taken, and Multitudes ſlain in the valley of <hi>De<g ref="char:EOLhyphen"/>ciſion!</hi> There is none like unto the God of <hi>Jeſurun,</hi> who rid upon the hea<g ref="char:EOLhyphen"/>ven for our Help, and in his Excel<g ref="char:EOLhyphen"/>lencie on the skie: The Eternal God was our Refuge, and underneath us were his everlaſting Armes: He did thruſt out the Enemy from before us, and did ſay, <hi>Deſtroy them:</hi> And are they not all ſcattered and deſtroyed? and hath not the Lord ſhut them up? Lo their Rock is not as our Rock, even our Enemies themſelves being Judges: O God, by terrible things in righteouſ<g ref="char:EOLhyphen"/>neſs didst thou anſwer <hi>Us;</hi> Thy right hand is full of righteouſneſs: Let Mount Sion Rejoyce, let the Daugh<g ref="char:EOLhyphen"/>ters of Judah be glad, becauſe of thy Judgments: Let the Parliament of the Common Wealth of England, lift up their Voyces and ſay <hi>Hallelujah,</hi> let the Armies in Heaven that follow the Lamb, ſay <hi>Hallelujah;</hi> let all that are a willing people in this day of Gods Power, ſay, Amen, <hi>Hallelujah:</hi> and again let them ſay <hi>Hallelujah;</hi> for the Lord God Omnipotent Reigneth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="songs">
+            <pb facs="tcp:169736:5"/>
+            <pb n="9" facs="tcp:169736:5"/>
+            <head>Certain Hymns, Compoſed out of Scripture, to celebrate ſome ſpeciall and publike occaſions.</head>
+            <div n="1" type="song">
+               <head>
+                  <hi>I.</hi> Hymn, Celebrates the ſpiritual glory of the Church in days of Reformation. <hi>Tune of</hi> Give laud unto &amp;c.</head>
+               <lg>
+                  <l>THus ſaith the Lord of Hoſts,</l>
+                  <l>But yet a little while,<note place="margin">Hag. 2.6.</note>
+                  </l>
+                  <l>And I wil ſhake all coaſts,</l>
+                  <l>Yea, every land and ile;</l>
+                  <l>Yet once again.</l>
+                  <l>Ile ſhake al theſe, Heav'n, Earth, &amp; Seas,</l>
+                  <l>And all the main.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>All Nations I will ſhake,<note place="margin">7.</note>
+                  </l>
+                  <l>The long deſired day,</l>
+                  <l>Which doth all Nations take,</l>
+                  <l>Even that ſhall come I ſay,</l>
+                  <l>And (for all coaſts)</l>
+                  <l>This houſe I will with glory fill,</l>
+                  <l>ſaith GOD of Hoſts.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The glory of this laſt</l>
+                  <l>Far greater ſhall it grow,<note place="margin">9.</note>
+                  </l>
+                  <l>Then of the Temple paſt,</l>
+                  <l>The Lord of Hoſts ſaith ſo:</l>
+                  <l>And in this place,</l>
+                  <pb n="10" facs="tcp:169736:6"/>
+                  <l>(It is the Lord of Hoſts <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s word)</l>
+                  <l>I will give peace.</l>
+               </lg>
+               <lg n="4">
+                  <head>
+                     <note place="margin">Zech. 4.6 7. &amp; Hag 1.22.</note>4.</head>
+                  <l>Yet not by might nor power,</l>
+                  <l>But by my Spirit alone,</l>
+                  <l>Saith God of Hoſts, our Tower,</l>
+                  <l>The ſtrength of all in one;</l>
+                  <l>For who art thou</l>
+                  <l>O mountain great, the Empires ſeat,</l>
+                  <l>To hinder now?</l>
+               </lg>
+               <lg n="5">
+                  <head>
+                     <note place="margin">Zech. 4.7</note>5.</head>
+                  <l>Before <hi>Zerubbabel,</hi>
+                  </l>
+                  <l>Thou ſhalt become a plain;</l>
+                  <l>The ſtone that doth excel,</l>
+                  <l>The head-ſtone of the ſame</l>
+                  <l>His hand ſhall fit,</l>
+                  <l>And bring it out, with general ſhout,</l>
+                  <l>Grace, grace to it.</l>
+               </lg>
+               <lg n="6">
+                  <head>
+                     <note place="margin">Verſ. 9. &amp; Hag. 1.22</note>6.</head>
+                  <l>The hand that firſt began</l>
+                  <l>To lay the ground work low,</l>
+                  <l>The hand of that ſame man</l>
+                  <l>Shall finiſh it alſo,</l>
+                  <l>In ſpight of Kings,</l>
+                  <l>For who I ſay, deſpis'd the day</l>
+                  <l>Of theſe ſmall things.</l>
+               </lg>
+            </div>
+            <div n="2" type="song">
+               <head>
+                  <hi>II.</hi> Hymn, Celebrates the ſame.</head>
+               <lg>
+                  <l>
+                     <note place="margin">Pſal. 81.1 &amp; 85.10, &amp;c.</note>BE cheerful, and in God rejoyce,</l>
+                  <l>in God our ſtrength and ſtay,</l>
+                  <pb n="11" facs="tcp:169736:6"/>
+                  <l>Be joyful, and lift up your voyce</l>
+                  <l>to <hi>Jacobs</hi> God, I ſay:</l>
+                  <l>Prepare your inſtruments moſt meet</l>
+                  <l>ſome joyful Pſalm to ſing:</l>
+                  <l>Strike up with Harp and lute ſo ſweet,</l>
+                  <l>on every pleaſant ſtring.</l>
+               </lg>
+               <lg>
+                  <l>Mercy and Truth now meet in one,<note place="margin">Pſa. 85.10 <hi>ad finem.</hi>
+                     </note>
+                  </l>
+                  <l>and hands together ſtrike:</l>
+                  <l>Juſtice ſalutes not Peace alone,</l>
+                  <l>but Peace performs the like.</l>
+                  <l>Eternal Truth and verity,</l>
+                  <l>out of the Earth ſhall ſpring:</l>
+                  <l>Juſtice looks down from heav'n on high</l>
+                  <l>an Heav'n on Earth to bring:</l>
+               </lg>
+               <lg>
+                  <l>Yea, and the Lord ſhall here beſtow</l>
+                  <l>abundant grace and peace,</l>
+                  <l>And make our Land to overflow</l>
+                  <l>with plentiful increaſe.</l>
+                  <l>Before his face ſhall Juſtice go,</l>
+                  <l>and (where the way was dim)</l>
+                  <l>Shall now direct our footſteps ſo,</l>
+                  <l>that we may follow him.</l>
+               </lg>
+            </div>
+            <div n="3" type="song">
+               <head>
+                  <hi>III.</hi> Hymn, Celebrates <hi>Nazeby,</hi> and o<g ref="char:EOLhyphen"/>ther great Victories of the Church.</head>
+               <lg>
+                  <l>SIng praiſes
+<list>
+                        <item>Iſrael</item>
+                        <item>England</item>
+                     </list> to the Lord,<note place="margin">Iudges 5.2, 3.</note>
+                  </l>
+                  <l>that hath avenged thee;</l>
+                  <pb n="12" facs="tcp:169736:7"/>
+                  <l>When as the people went to fight,</l>
+                  <l>offring themſelves ſo free.</l>
+                  <l>Ye Kings give ear, ye Princes hear,</l>
+                  <l>I, even I will ſing,</l>
+                  <l>And ſweetly raiſe my voyce in praiſe,</l>
+                  <l>to
+<list>
+                        <item>
+                           <hi>Iſraels</hi>
+                        </item>
+                        <item>
+                           <hi>Englands</hi>
+                        </item>
+                     </list> God and King.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Verſ. 9, 10.</note>My heart is tow'rd the Governors,</l>
+                  <l>that did their help afford,</l>
+                  <l>Offering themſelves ſo willingly,</l>
+                  <l>wherefore bleſs ye the Lord.</l>
+                  <l>Ye Travellers and Paſſengers,</l>
+                  <l>and ye that ride in ſtate,</l>
+                  <l>And ye that yet in judgment ſit,</l>
+                  <l>now ſpeak it in the gate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Verſ. 11, 7.</note>All they that are delivered,</l>
+                  <l>from
+<list>
+                        <item>Archers</item>
+                        <item>Gunners</item>
+                        <item>Cannons</item>
+                     </list> frightful noiſe,</l>
+                  <l>The righteous acts of God the Lord,</l>
+                  <l>they ſhall rehearſe with joys.</l>
+                  <l>The Paſſengers were wanderers,</l>
+                  <l>in by-paths up and down,</l>
+                  <l>And none
+<list>
+                        <item>durſt dwell in <hi>Iſrael</hi>
+                        </item>
+                        <item>could dwel in <hi>England</hi> wel,</item>
+                     </list>
+                  </l>
+                  <l>but in a walled Town.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Ver. 12, 31</note>Awake awake, O
+<list>
+                        <item>Parliament,</item>
+                        <item>Deborah,</item>
+                     </list>
+                  </l>
+                  <pb n="13" facs="tcp:169736:7"/>
+                  <l>riſe
+<list>
+                        <item>Barak</item>
+                        <item>Conqu'rors</item>
+                        <item>Fairfax</item>
+                        <item>Cromwel,</item>
+                     </list> ſing a Song.</l>
+                  <l>Lead captive
+<list>
+                        <item>thy</item>
+                        <item>your</item>
+                     </list> captivity,</l>
+                  <l>come lead them all along:</l>
+                  <l>So periſh thoſe that are thy foes;</l>
+                  <l>but Lord let all thy lovers</l>
+                  <l>Be like the Sun when days begun,</l>
+                  <l>and brighteſt beams diſcovers.</l>
+               </lg>
+            </div>
+            <div n="4" type="song">
+               <head>IV. <hi>Hymn, Celebrates our Sea-fight Victories, and ſuch like.</hi>
+               </head>
+               <opener>To a mixt Tune, the 2 firſt lines as the 2 firſt lines of Pſ. 113. and the next as 148</opener>
+               <lg>
+                  <l>NOw ſing unto the Lord will I,<note place="margin">Exod. 15.1, to 12,</note>
+                  </l>
+                  <l>For he hath triumph'd gloriouſly;</l>
+                  <l>By power ſupream,</l>
+                  <l>The horſe and his proud rider is</l>
+                  <l>Caſt down the ſtream.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Jehovah is my ſtrength and ſong,</l>
+                  <l>And is become my Saviour ſtrong,</l>
+                  <l>My God is he:</l>
+                  <l>I will prepare a place, with care,</l>
+                  <l>His houſe to be.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>My fathers God likewiſe he is,</l>
+                  <l>I will exalt this Name of his:</l>
+                  <pb n="14" facs="tcp:169736:8"/>
+                  <l>A man of war,</l>
+                  <l>The Lord the Lord (as I record)</l>
+                  <l>His Titles are.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Proud Pharaohs charets, lo, he down'd,</l>
+                  <l>And all his hoſt in Seas profound</l>
+                  <l>His Captains fam'd,</l>
+                  <l>Behold, ev'n they were drownd ith ſea,</l>
+                  <l>The red Sea nam'd.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The depths devour'd them every one,</l>
+                  <l>They ſank toth'bottom as a ſtone:</l>
+                  <l>Lord, thy right hand</l>
+                  <l>Hath gain'd the tower &amp; utmoſt power</l>
+                  <l>Of high command.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Lord, thy right hand exalted ſo,</l>
+                  <l>Hath daſht in pieces our proud foe,</l>
+                  <l>In greatneſs great,</l>
+                  <l>Thy hand o'rthrows thy rebel foes,</l>
+                  <l>O rare defeat!</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Thou ſenteſt forth thy fervent fume,</l>
+                  <l>Which them, as ſtubble, did conſume,</l>
+                  <l>And all together,</l>
+                  <l>Thy noſtrils blaſt did gather faſt</l>
+                  <l>The waters thither.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>The floods on heaps ſtood bolt upright,</l>
+                  <pb n="15" facs="tcp:169736:8"/>
+                  <l>The depths together did unite;</l>
+                  <l>And all of theſe,</l>
+                  <l>Together were congealed there,</l>
+                  <l>Amid the Seas.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>I will purſue them, ſaid the foe,</l>
+                  <l>Ile overtake, Ile overthrow,</l>
+                  <l>I will divide</l>
+                  <l>The ſpoil, ſaid he, my luſt ſhall be</l>
+                  <l>ſo ſatisfi'd.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>It ſhall be ſatisfi'd on them,</l>
+                  <l>My ſword ſhall eat the fleſh of men,</l>
+                  <l>Ile draw it out,</l>
+                  <l>My hand, then, ſhall deſtroy them all,</l>
+                  <l>I make no doubt.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Then did thy wind with bluſtring force</l>
+                  <l>Return the Sea unto its courſe,</l>
+                  <l>And made their graves,</l>
+                  <l>(whereto conveigh'd, they ſank, as lead)</l>
+                  <l>In mighty waves.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Among the Gods who's like to thee?</l>
+                  <l>Who, like thee, ſhines in ſanctitie?</l>
+                  <l>Fearful in praiſe;</l>
+                  <l>Moſt wondrous rare thy workings are</l>
+                  <l>In all thy ways.</l>
+               </lg>
+            </div>
+            <div n="5" type="song">
+               <pb n="16" facs="tcp:169736:9"/>
+               <head>
+                  <hi>V.</hi> Hymn, Celebrates National Mercies.</head>
+               <lg>
+                  <l>
+                     <note place="margin">Pſalm 49.1, 2.</note>ALl people, hearken, and give ear,</l>
+                  <l>All ye that in the world do dwel;</l>
+                  <l>Both high and low, both rich and poor,</l>
+                  <l>My mouth ſhall ſpeak a Parable.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Deut. 4.34</note>A people ta'ne out of a Nation,</l>
+                  <l>By ſignes, by wonders, and by war,</l>
+                  <l>By terrors great, and much temptation,</l>
+                  <l>And Gods high hand extended far.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Deu. 33.29</note>O happy
+<list>
+                        <item>
+                           <hi>Iſrael</hi>
+                        </item>
+                        <item>
+                           <hi>England</hi>
+                        </item>
+                     </list> we record,</l>
+                  <l>Whom like to thee doth God advance?</l>
+                  <l>O people ſaved by the Lord,</l>
+                  <l>The ſhield of thy deliverance.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">Ibidem.</note>He is thy ſword ſo much renown'd,</l>
+                  <l>And all theſe enemies of ours</l>
+                  <l>To thee as lyars ſhall be found,</l>
+                  <l>And thou ſhalt tred on their high towrs.</l>
+               </lg>
+            </div>
+            <div n="6" type="song">
+               <head>
+                  <hi>VI.</hi> Hymn, Celebrates the ſame. Ye children which.</head>
+               <lg>
+                  <l>
+                     <note place="margin">Iſai. 26.1 2, 4 5.</note>WE have a City very ſtrong,</l>
+                  <l>God ſets ſalvation all along,</l>
+                  <l>For walls and bulwarks every where;</l>
+                  <pb n="17" facs="tcp:169736:9"/>
+                  <l>Now open ye the gates for them</l>
+                  <l>Of righteous Jeruſalem,</l>
+                  <l>Which keep the truth to enter there.</l>
+                  <l>And ſince the Lord Jehovah is</l>
+                  <l>The eternal Rock of ſtrength to his,</l>
+                  <l>In his great Name for ever truſt:</l>
+                  <l>He gives the proud the overthrow,</l>
+                  <l>He lays the lofty City low,</l>
+                  <l>Even to the ground, even to the duſt.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Yea Lord,<note place="margin">Verſ. 8, 10 11.</note> in thine own judgments way</l>
+                  <l>We waited for thee every day:</l>
+                  <l>Our Souls deſire is to thy Name;</l>
+                  <l>But let thy favour be declar'd</l>
+                  <l>To wicked men, they'l not regard,</l>
+                  <l>Nor learn Religion by the ſame;</l>
+                  <l>But moſt unjuſtly will tranſgreſs,</l>
+                  <l>Ev'n in the Land of uprightneſs;</l>
+                  <l>And will not ſee Gods Majeſty:</l>
+                  <l>But they ſhall ſee, and ſee with ſhame,</l>
+                  <l>And feel, as foes, thy fiery flame,</l>
+                  <l>For envying our felicity.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Lord, we have been with child in vain,<note place="margin">Verſe 18. &amp; 12.</note>
+                  </l>
+                  <l>And we have been in grievous pain,</l>
+                  <l>And (as it were) brought forth the wind</l>
+                  <l>For by our pow'r we have not wrought</l>
+                  <l>The leaſt deliverance can be thought,</l>
+                  <l>In all the Earth, in any kind;</l>
+                  <pb n="18" facs="tcp:169736:10"/>
+                  <l>Nor have the inhabitants of the Earth</l>
+                  <l>Faln by the power that we put forth;</l>
+                  <l>But by thy ſtrength are undertrod;</l>
+                  <l>For Lord thou wilt ordain (at laſt)</l>
+                  <l>True peace for us, becauſe thou haſt</l>
+                  <l>Wrought all our works in us, O God.</l>
+               </lg>
+               <lg n="4">
+                  <head>
+                     <note place="margin">Ver. 20, 21</note>4</head>
+                  <l>O come my people, enter thou</l>
+                  <l>Into thy ſecret chambers now,</l>
+                  <l>And ſhut the doors about thee faſt,</l>
+                  <l>And hide thy ſelf now, as it were,</l>
+                  <l>But for a little moment there,</l>
+                  <l>Until the wrath be over-paſt:</l>
+                  <l>For lo the Lord comes from his place,</l>
+                  <l>To puniſh this malignant race,</l>
+                  <l>For wickedneſs that they maintain;</l>
+                  <l>The Earth ſhall alſo now diſcloſe</l>
+                  <l>The bloodſhed of our barb'rous foes,</l>
+                  <l>And ſhall no more conceal her ſlain.</l>
+               </lg>
+            </div>
+            <div n="7" type="song">
+               <head>VII. <hi>Hymn, Celebrates the ſame.</hi>
+               </head>
+               <opener>To any General Tune.</opener>
+               <lg>
+                  <l>
+                     <note place="margin">Pſalm 105 Coll. from verſ. 1. to 11. and Iam. 2.23.</note>GIve praiſes unto God the Lord,</l>
+                  <l>and call upon his Name:</l>
+                  <l>Declare his works to all the world,</l>
+                  <l>and ſpread his praiſe and fame.</l>
+                  <l>Sing ye unto the Lord, I ſay,</l>
+                  <l>and ſing unto his praiſe,</l>
+                  <l>And talk of all his wondrous works,</l>
+                  <l>that he hath wrought always.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="19" facs="tcp:169736:10"/>
+                  <head>2.</head>
+                  <l>In honour of his holy Name,</l>
+                  <l>rejoyce with one accord;</l>
+                  <l>And let the very heart rejoyce</l>
+                  <l>of them that ſeek the Lord.</l>
+                  <l>Seek ye the Lord, and ſeek his ſtrength,</l>
+                  <l>and his eternal might:</l>
+                  <l>Oh ſeek his face continually,</l>
+                  <l>and
+<list>
+                        <item>preſence of his ſight.</item>
+                        <item>countenances light.</item>
+                     </list>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The wondrous works that he hath done</l>
+                  <l>keep ſtill in thankful heart:</l>
+                  <l>Let not the Judgments of his mouth,</l>
+                  <l>out of your minds depart.</l>
+                  <l>Ye ſeed of faithful <hi>Abraham,</hi>
+                  </l>
+                  <l>his ſervant, and his friend,</l>
+                  <l>Ye children that do lineally</l>
+                  <l>from <hi>Jacobs</hi> loyns deſcend.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>For lo he is the Lord our God,</l>
+                  <l>even he, and he alone;</l>
+                  <l>And every where throughout the Earth</l>
+                  <l>his Judgments are made known.</l>
+                  <l>His Promiſe and his Covenant,</l>
+                  <l>which he hath made to his,</l>
+                  <l>Hath been remembred evermore,</l>
+                  <l>and ſtill remembred is.</l>
+               </lg>
+            </div>
+            <div n="8" type="song">
+               <pb n="20" facs="tcp:169736:11"/>
+               <head>VIII. <hi>Hymn, Celebrates our Redemption by Jeſus Chriſt:</hi> (Which, if you leave out the parentheſis, will be ſung in any general Tune; if you put them in, then, to <hi>All people.</hi>)</head>
+               <lg>
+                  <l>THe Lord the God of Iſrael,</l>
+                  <l>
+                     <note place="margin">Luke 1. from v. 68 to 76.</note>
+                     <hi>(Now do)</hi> we praiſe with one accord,</l>
+                  <l>For viſiting and redeeming us,</l>
+                  <l>The <hi>(choſen)</hi> people of the Lord:</l>
+                  <l>For he hath raiſed up for us</l>
+                  <l>Salvations <hi>(ſtrong and)</hi> ſureſt horn,</l>
+                  <l>Which in his ſervant Davids houſe,</l>
+                  <l>Is for his people <hi>(Iſrael)</hi> born.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>As by his holy Prophets all,</l>
+                  <l>
+                     <hi>(Speaking)</hi> ſince firſt the world began,</l>
+                  <l>And by their mouth he hath foretold,</l>
+                  <l>
+                     <hi>(That it)</hi> ſhould come to paſs for man,</l>
+                  <l>That from our foes we ſhould be freed,</l>
+                  <l>And <hi>(ſav'd from)</hi> all our haters hands,</l>
+                  <l>To ſhew that he remembreth how</l>
+                  <l>
+                     <hi>(How)</hi> his <hi>(moſt)</hi> holy Covenant ſtands.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>To pay the gracious promiſes,</l>
+                  <l>Which to our <hi>(ancient)</hi> fathers came:</l>
+                  <l>The oath which he had ſworn unto,</l>
+                  <l>Our father Abraham <hi>(by Name)</hi>
+                  </l>
+                  <l>That he would give and grant to us,</l>
+                  <l>That we <hi>(his folk)</hi> whom he hath choſe</l>
+                  <l>Now being thus delivered</l>
+                  <pb n="21" facs="tcp:169736:11"/>
+                  <l>From <hi>(cruel)</hi> hand of all our foes,</l>
+                  <l>Might ſerve him free from ſlaviſh fear,</l>
+                  <l>Walking in <hi>(all the)</hi> perfect ways</l>
+                  <l>Of Holineſs and Righteouſneſs,</l>
+                  <l>Before him <hi>(even)</hi> all our days.</l>
+               </lg>
+            </div>
+            <div n="9" type="song">
+               <head>
+                  <hi>IX.</hi> Hymn, Celebrates the Sacrament of the Lords Supper. An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</head>
+               <lg>
+                  <l>LO Chriſt is ſacrific'd for us,<note place="margin">1 Cor. 5.7 8 &amp; 11.26</note>
+                  </l>
+                  <l>our Paſſover (from Heaven,)</l>
+                  <l>Now therefore let us keep the feaſt,</l>
+                  <l>not with old lumps of leaven:</l>
+                  <l>Who eat and drink unworthily</l>
+                  <l>their own damnation earn;</l>
+                  <l>Becauſe they want a ſpiritual eye</l>
+                  <l>his body to diſcern.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Our hearts with care examined,<note place="margin">Verſe 28.29.</note>
+                  </l>
+                  <l>let us be ſtirred up,</l>
+                  <l>To eat of this celeſtial bread,</l>
+                  <l>and drink this ſacred cup:</l>
+                  <l>As often as we eat this bread,</l>
+                  <l>and alſo drink this wine,</l>
+                  <l>We ſhew our Saviours death until</l>
+                  <l>
+                     <list>
+                        <item>his ſecond coming ſhine,</item>
+                        <item>he come the ſecond time.</item>
+                     </list>
+                  </l>
+                  <l>
+                     <hi>Or,</hi>
+                  </l>
+                  <l>We ſhew our bleſſed Saviours death</l>
+                  <l>until he come again.</l>
+               </lg>
+            </div>
+            <div n="10" type="song">
+               <pb n="22" facs="tcp:169736:12"/>
+               <head>
+                  <hi>X.</hi> Hymn, Celebrates the ſame. Poſt.</head>
+               <lg>
+                  <l>
+                     <note place="margin">Mat. 21.9 &amp; Rev. 5.9</note>HOſanna to King <hi>Davids</hi> ſon,</l>
+                  <l>Hoſanna to the Chriſt,</l>
+                  <l>That in the Fathers Name doth come,</l>
+                  <l>Hoſanna in the high'ſt:</l>
+                  <l>For thou waſt ſlain, and art alive,</l>
+                  <l>redeeming us to God,</l>
+                  <l>From every Nation, kindred, tongue,</l>
+                  <l>by thy moſt precious blood.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <note place="margin">1 Pet. 1.18 Rev. 5.19</note>Corruptive things, as ſilver is,</l>
+                  <l>and gold redeem'd us not;</l>
+                  <l>But Chriſt our Saviours precious blood,</l>
+                  <l>a Lamb without a ſpot.</l>
+                  <l>To him that ſits upon the Throne,</l>
+                  <l>and Chriſt the Lamb therefore,</l>
+                  <l>Be glory, bleſſing, ſtrength, renown,</l>
+                  <l>and honour evermore.</l>
+               </lg>
+            </div>
+            <div n="11" type="song">
+               <head>
+                  <hi>XI.</hi> Hymn, Celebrates the Lords Supper. </head>
+               <opener>
+                  <hi>The Tune,</hi> Ye children which, <hi>&amp;c.</hi>
+               </opener>
+               <lg>
+                  <l>
+                     <note place="margin">Iohn 6 32 33, 34, 35 &amp; 7.38.</note>THe Bread of God (ſo truly call'd)</l>
+                  <l>That giveth life unto the world,</l>
+                  <l>Is he that down from Heaven came,</l>
+                  <l>And with this ſweet celeſtial bread,</l>
+                  <l>Lord let us be repleniſhed,</l>
+                  <l>And give us ever of the ſame.</l>
+                  <pb n="23" facs="tcp:169736:12"/>
+                  <l>For he that (as the Scripture ſaith)</l>
+                  <l>Lays hold on Chriſt by lively faith,</l>
+                  <l>Shall never thirſt nor hunger more:</l>
+                  <l>For by that faith, and feeding ſo,</l>
+                  <l>Out of his belly there ſhall flow,</l>
+                  <l>Of living waters plentious ſtore.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Spirit and the Bride do ſay,<note place="margin">Rev. 22.17 20. Iam. 5 9.</note>
+                  </l>
+                  <l>Come, come away without delay:</l>
+                  <l>And ſince that they have ſaid it firſt,</l>
+                  <l>Let all that hear it, as we do,</l>
+                  <l>Reply the ſame, and ſay ſo too,</l>
+                  <l>Come every one that is athirſt,</l>
+                  <l>The water of eternal life</l>
+                  <l>Take without price, take without ſtrife,</l>
+                  <l>Take freely, whoſoever pleaſes:</l>
+                  <l>Behold, the Judg at door doth ſtand,</l>
+                  <l>His coming is ſo near at hand:</l>
+                  <l>Amen, Amen, ſo come Lord Jeſus.</l>
+               </lg>
+            </div>
+            <div n="12" type="song">
+               <head>Pſal. XXII. 2. <hi>Metre.</hi>
+               </head>
+               <lg>
+                  <l>LOrd give thy judgme<g ref="char:cmbAbbrStroke">̄</g>ts to the King</l>
+                  <l>That juſtice may be done,</l>
+                  <l>And give the rule of governing</l>
+                  <l>Unto his princely Son.</l>
+                  <l>2. Then ſhall he govern uprightly,</l>
+                  <l>And do thy people right:</l>
+                  <l>Then ſhall he judg with equity,</l>
+                  <l>The poor that have no might.</l>
+                  <pb n="24" facs="tcp:169736:13"/>
+                  <l>3. And then, by means of righteouſnes,</l>
+                  <l>There ſhall be great increaſe;</l>
+                  <l>In every corner fruitfulneſs,</l>
+                  <l>Proſperity, and peace.</l>
+                  <l>4. Then ſhall he help the poor &amp; weak,</l>
+                  <l>And them that ſuffer wrong;</l>
+                  <l>And, by his pow'r, in pieces break</l>
+                  <l>Oppreſſors great and ſtrong.</l>
+                  <l>5. And then, from age to age, ſhall they</l>
+                  <l>Regard and fear his might,</l>
+                  <l>So long as Sun doth ſhine by day,</l>
+                  <l>Or elſe the Moon by night.</l>
+                  <l>6. He ſhall deſcend as ſhowres of rain</l>
+                  <l>On mowen graſs do drop,</l>
+                  <l>Which make the ground to ſpring again</l>
+                  <l>And bear a ſecond crop.</l>
+                  <l>7. The juſt ſhall flouriſh in his days,</l>
+                  <l>And all ſhall be at peace,</l>
+                  <l>Until the very Moon decays,</l>
+                  <l>And all its motions ceaſe.</l>
+                  <l>8. He ſhall be Lord of Sea and Land,</l>
+                  <l>From ſhore to ſhore, throughout;</l>
+                  <l>From Sea to Sea, on either hand,</l>
+                  <l>And all the Earth about.</l>
+                  <l>9 The dwellers in the deſarts muſt</l>
+                  <l>Before him bow full low:</l>
+                  <l>His Enemies ſhall lick the duſt</l>
+                  <l>Whether they will or no.</l>
+                  <l>10. The Kings of Tharſhiſh, and the Iles</l>
+                  <pb n="25" facs="tcp:169736:13"/>
+                  <l>Their gifts to him ſhall bring:</l>
+                  <l>And Kingdoms diſtant many miles</l>
+                  <l>Do homage to this King.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>The ſecond Part.</head>
+                  <lg>
+                     <l>11. All Kings ſhal ſue to Chriſt the Lord</l>
+                     <l>In his good grace to ſtand;</l>
+                     <l>And all the people of the world</l>
+                     <l>Shall be at his command.</l>
+                     <l>12. For he the needy ſort ſhall ſave,</l>
+                     <l>When unto him they call:</l>
+                     <l>The poor, I ſay, and them that have</l>
+                     <l>No help of man at all.</l>
+                     <l>13. He taketh pity on the poor,</l>
+                     <l>Whom Tyrants ſeek to ſlay;</l>
+                     <l>And doth preſerve them evermore,</l>
+                     <l>Thoſe needy Souls, I ſay.</l>
+                     <l>14. And by his pow'r they ſhal be freed</l>
+                     <l>From fraud, from force, and ſpite,</l>
+                     <l>Becauſe the blood that they do bleed</l>
+                     <l>Is precious in his ſight.</l>
+                     <l>15. And he ſhal live, and they ſhall bring</l>
+                     <l>To him of <hi>Sheba's</hi> gold;</l>
+                     <l>He ſhall be pray'd for as a King,</l>
+                     <l>And dayly be extol'd.</l>
+                     <l>16. The barren'ſt hils ſhal yeeld increaſe</l>
+                     <l>Like Leb'nons fruitful boughs:</l>
+                     <l>In every corner, Truth and Peace</l>
+                     <l>His Government allows.</l>
+                     <l>The Citizens of <hi>Sion</hi> hill</l>
+                     <pb n="26" facs="tcp:169736:14"/>
+                     <l>Shall flouriſh as the graſs,</l>
+                     <l>And in great peace and plenty, ſtill,</l>
+                     <l>Their happy days ſhall paſs.</l>
+                     <l>17. His Name (THE SON) when Sun ſhal reſt,</l>
+                     <l>Shall ſhine, and not be dim,</l>
+                     <l>And Nations all ſhall call him bleſt,</l>
+                     <l>As being bleſt in him.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10</head>
+                     <l>18. Praiſe ye the Lord of Hoſts, and ſing</l>
+                     <l>To Iſraels God each one;</l>
+                     <l>For he doth every wondrous thing,</l>
+                     <l>Yea, he himſelf alone.</l>
+                     <l>19. And bleſſed be his holy Name,</l>
+                     <l>All times eternally:</l>
+                     <l>Let th' Earth be filled with his fame,</l>
+                     <l>Amen, Amen, ſay I.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="12" type="song">
+               <head>
+                  <hi>XII.</hi> Hymn, Celebrates the Paſſion.</head>
+               <lg>
+                  <l>
+                     <note place="margin">1 Pet. 2.18 &amp; 2, 24.</note>LO, Chriſt hath ſuffer'd once for all,</l>
+                  <l>The Juſt for wicked men,</l>
+                  <l>That he might bring us unto God,</l>
+                  <l>Now reconcil'd agen:</l>
+                  <l>Who bare our ſins in his own fleſh,</l>
+                  <l>Upon that curſed tree,</l>
+                  <l>That we ſhould live to righteouſneſs,</l>
+                  <l>And dead to ſin ſhould be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>
+                     <note place="margin">Iſai. 53.6, 4.</note>All we like ſheep have gone aſtray,</l>
+                  <l>To ſeveral ſins we fall;</l>
+                  <l>And God hath layd the load on him,</l>
+                  <pb n="27" facs="tcp:169736:14"/>
+                  <l>To
+<list>
+                        <item>anſwer</item>
+                        <item>ſuffer</item>
+                     </list> for us all.</l>
+                  <l>A man of ſorrows ſure he was,</l>
+                  <l>And he hath born our grief:</l>
+                  <l>Mean while we hid our face from him,</l>
+                  <l>And gave him no relief.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Lo, this is that good Shepherd then,<note place="margin">Ioh. 10.11 &amp; 15.13.</note>
+                  </l>
+                  <l>That good Shepherd indeed,</l>
+                  <l>That layd his life down for the ſheep,</l>
+                  <l>Which he doth watch and feed.</l>
+                  <l>A greater love then this hath none,</l>
+                  <l>Nor none can comprehend,</l>
+                  <l>Then that a man ſhould ſtake his life,</l>
+                  <l>And loſe it for his friend.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>For ſcarce will any dye for him,<note place="margin">Rom. 5, 7, 8.</note>
+                  </l>
+                  <l>That lives moſt righteouſly;</l>
+                  <l>Yet happ'ly for a ſpecial friend</l>
+                  <l>Some one might dare to dye.</l>
+                  <l>But God commends his love to us,</l>
+                  <l>And he commends it thus,</l>
+                  <l>In that, when we were enemies,</l>
+                  <l>Chriſt freely dy'd for us.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>By him therefore let's give to God</l>
+                  <l>The ſacrifice of praiſe;<note place="margin">Heb. 13.15</note>
+                  </l>
+                  <l>Fruit of our lips, in giving thanks,</l>
+                  <l>Unto his Name always.</l>
+               </lg>
+            </div>
+            <div n="76" type="Psalm">
+               <pb n="28" facs="tcp:169736:15"/>
+               <head>
+                  <hi>The 76 Pſam.</hi> W. B. <hi>as 100.</hi> Of Victory over Enemies.</head>
+               <lg>
+                  <l>IN <hi>Judah</hi> God is known to his,</l>
+                  <l>At<note n="*" place="margin">
+                        <hi>Or</hi> Dun<g ref="char:EOLhyphen"/>bar, Dun<g ref="char:EOLhyphen"/>dee, Naz<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>by, Edghil, <hi>&amp;c.</hi>
+                     </note> 
+                     <hi>Worſter</hi> God was</l>
+                  <l>his Name is great in <hi>Iſrael:</hi>
+                  </l>
+                  <l>2. His Sanctu'ry at <hi>Salem</hi> is,</l>
+                  <l>he doth in <hi>Sion</hi> mountain dwell:</l>
+                  <l>3. The
+<list>
+                        <item>Bows &amp; Arrows</item>
+                        <item>horſ &amp; footme<g ref="char:cmbAbbrStroke">̄</g>
+                        </item>
+                     </list> brake he there</l>
+                  <l>the battel, ſhield, &amp; ſword, and ſpear.</l>
+                  <l>4. Thou art more glorious every way,</l>
+                  <l>and excellent, then mounts of prey.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>5. The ſtout of heart are overthrown,</l>
+                  <l>&amp; they have ſtept their ſleeps laſt night;</l>
+                  <l>And of the mighty men, not one</l>
+                  <l>hath fou<g ref="char:cmbAbbrStroke">̄</g>d his hands wherwith to fight.</l>
+                  <l>6. O God of <hi>Jacob,</hi> thy reproof</l>
+                  <l>ſpoild ratling wheel, &amp; thund'ring hoof:</l>
+                  <l>Charet and horſe at thy fierce blaſt</l>
+                  <l>into a ſleep of death are caſt.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>7. Thou, thou alone are worthy fear;</l>
+                  <l>for who may ſtand before thine eys?</l>
+                  <l>Who dares approach, who dares appear</l>
+                  <l>when once thy burning wrath doth riſe?</l>
+                  <l>8. From heaven thou mak'ſt judgment heard</l>
+                  <l>the ſilent earth was ſore afraid,</l>
+                  <pb n="29" facs="tcp:169736:15"/>
+                  <l>9. When God aroſe to judgment then</l>
+                  <l>to ſave on earth all humble men.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>10. Mans wrath ſhall ſurely praiſe thy Name,</l>
+                  <l>henceforth held in by thy reſtraints:</l>
+                  <l>11. O make your vows, &amp; pay the ſame</l>
+                  <l>unto the Lord your God, ye Saints.</l>
+                  <l>12. Let all about him preſents bring</l>
+                  <l>to him that daunts the proudeſt King;</l>
+                  <l>To him, I ſay, whoſe fear compels</l>
+                  <l>and Princes ſpirits curbs and quells.</l>
+               </lg>
+            </div>
+            <div n="13" type="song">
+               <head>
+                  <hi>The XIII. Hymn.</hi> W. B. <hi>as 113.</hi> Of the Churches Triumph over Anti<g ref="char:EOLhyphen"/>chriſt.</head>
+               <lg>
+                  <l>NOw is Salvation come abroad,<note place="margin">Rev 12 10; 11; 12: 11; 17: 7; 10</note>
+                  </l>
+                  <l>The ſtrength and Kingdom of our <hi>God,</hi>
+                  </l>
+                  <l>Now hath his Chriſt extol'd his might;</l>
+                  <l>For the Accuſer's made to fall,</l>
+                  <l>He that accus'd our brethren all</l>
+                  <l>Before our God, both day and night.</l>
+                  <l>And him they quell'd and overcame</l>
+                  <l>By the pure blood of Chriſt the Lamb,</l>
+                  <l>And by their Teſtimony true:</l>
+                  <l>For by that double-edged ſword,</l>
+                  <l>The witneſs of their faithful word,</l>
+                  <l>This Enemy they overthrew.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="30" facs="tcp:169736:16"/>
+                  <head>2.</head>
+                  <l>Nor did they ſpare their utmoſt breath,</l>
+                  <l>Nor love their lives unto the death,</l>
+                  <l>But boldly layd down all at ſtake:</l>
+                  <l>Therfore ye Heavens, lift up your voyce</l>
+                  <l>And ye that dwell in them, rejoyce</l>
+                  <l>In this Salvation to partake.</l>
+                  <l>But wo to you, to you, O SIRS,</l>
+                  <l>The Earths and Seas Inhabiters,</l>
+                  <l>Guilty of this Accuſer's Crime!</l>
+                  <l>For Satan is come down to you,</l>
+                  <l>Having great wrath, becauſe he knew</l>
+                  <l>He now muſt have but little time.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>We give thee thanks with one conſent,</l>
+                  <l>O Lord our God OMNIPOTENT,</l>
+                  <l>Which art, and waſt, and art to come,</l>
+                  <l>For thou haſt taken unto thee</l>
+                  <l>Thy great power and Authoritie,</l>
+                  <l>And reigned in deſpight of <hi>ROME.</hi>
+                  </l>
+                  <l>Bleſſing and Glory be therefore</l>
+                  <l>Unto our God for evermore,</l>
+                  <l>(To him that on the Throne doth ſit)</l>
+                  <l>Thankſgiving alſo is his right,</l>
+                  <l>Wiſdom and honor, ſtrength &amp; might,</l>
+                  <l>Amen, ſay we; and ſo be it.</l>
+               </lg>
+            </div>
+            <div n="126" type="Psalm">
+               <pb n="31" facs="tcp:169736:16"/>
+               <head>
+                  <hi>The 126 Pſalm.</hi> W. B. <hi>as 113.</hi> Of Wonderful Deliverance.</head>
+               <lg>
+                  <l>WHen God had our Deliverance wrought,</l>
+                  <l>And <hi>Sion</hi> out of bo<g ref="char:cmbAbbrStroke">̄</g>dage brought,</l>
+                  <l>It ſeem'd to us a very Dream;</l>
+                  <l>So much our Souls diſtracted were,</l>
+                  <l>Between the thoughts of hope and fear,</l>
+                  <l>To ſcape a danger ſo extream.</l>
+                  <l>Then ſacred Joy fill'd every breſt,</l>
+                  <l>And was in Songs of mirth expreſt,</l>
+                  <l>And every tongue moſt ſweetly ſings,</l>
+                  <l>The wondring Heathen oft would ſay,</l>
+                  <l>How good! how great a <hi>God</hi> have they!</l>
+                  <l>That wroght for the<g ref="char:cmbAbbrStroke">̄</g> ſuch mighty things!</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Great things for us the Lord hath wrought</l>
+                  <l>Above the reach of humane thought,</l>
+                  <l>Which makes our joy ſo much abound:</l>
+                  <l>And now Lord bring the Remnant out</l>
+                  <l>From bo<g ref="char:cmbAbbrStroke">̄</g>dage, as the ſhowrs in drought,</l>
+                  <l>Or Rivers to a parched Ground.</l>
+                  <l>He that goes forth in times of need,</l>
+                  <l>Sorrowing to ſpare his precious ſeed,</l>
+                  <l>And ſows in tears, and time of dearth,</l>
+                  <l>When the fat Harveſt comes about,</l>
+                  <l>Shall make a glad return, no doubt,</l>
+                  <l>With laden ſheaves, &amp; ſhouts of mirth.</l>
+               </lg>
+            </div>
+            <div n="129" type="Psalm">
+               <pb n="32" facs="tcp:169736:17"/>
+               <head>
+                  <hi>The 129 Pſalm.</hi> W. B. <hi>as 113.</hi> Of Deliverance from Enemies.</head>
+               <lg>
+                  <l>MAny a time and oft have they</l>
+                  <l>Afflicted me, may <hi>Iſrael</hi> ſay,</l>
+                  <l>Ev'n from my youth unto this day;</l>
+                  <l>Oft from my youth they did aſſail</l>
+                  <l>And ſet me hard, yet did they fail,</l>
+                  <l>And could not poſſibly prevail.</l>
+                  <l>The Tyrants plow'd me like the grou<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>My back with furrows they did wou<g ref="char:cmbAbbrStroke">̄</g>d,</l>
+                  <l>Such extream cruelty I found:</l>
+                  <l>But the juſt LORD, and moſt upright,</l>
+                  <l>Hath cut their cords aſunder quite,</l>
+                  <l>Theirs that in wickedneſs delight.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And let them be confounded ſtill,</l>
+                  <l>And turned back, that bear ill will,</l>
+                  <l>And hatred unto SION Hill:</l>
+                  <l>Like to the graſs let them be made</l>
+                  <l>Which on the houſes tops doth fade,</l>
+                  <l>And withers even in the blade;</l>
+                  <l>Whereof the mower ne're receives</l>
+                  <l>A handful, nor a lapful leaves</l>
+                  <l>For him that bindeth up the ſheaves:</l>
+                  <l>Neither do they, which there go by,</l>
+                  <l>Say, <hi>Sirs,</hi> God ſpeed you heartily,</l>
+                  <l>We bleſs you from the Lord moſt high.</l>
+               </lg>
+            </div>
+            <div n="129" type="Psalm">
+               <pb n="33" facs="tcp:169736:17"/>
+               <head>Another Metre of 129 Pſalm. <hi>W. B.</hi> as 148.</head>
+               <lg>
+                  <l>FUll often, of a truth,</l>
+                  <l>And many times have they</l>
+                  <l>Diſtreſt me from my youth,</l>
+                  <l>May <hi>Iſrael</hi> now ſay,</l>
+                  <l>Even from the firſt,</l>
+                  <l>Yet could they not prevail a jot,</l>
+                  <l>And do their worſt.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>They plow'd upon my back,</l>
+                  <l>As plow-ſhares teer the ground;</l>
+                  <l>Long furrows did they make,</l>
+                  <l>And many a grievous wound,</l>
+                  <l>With wicked hands.</l>
+                  <l>But the juſt Lord hath cut their cords,</l>
+                  <l>And broke their bands.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>And, Lord, confound them all,</l>
+                  <l>And bring it ſo to paſs,</l>
+                  <l>That <hi>Sions</hi> foes may fall,</l>
+                  <l>And all be made as graſs</l>
+                  <l>On houſes top;</l>
+                  <l>Which withers there, before it ear,</l>
+                  <l>Or come to crop.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Which never hath the hap</l>
+                  <l>To fill the mowers hand,</l>
+                  <pb n="34" facs="tcp:169736:18"/>
+                  <l>Nor lies in binders lap</l>
+                  <l>So much as makes a band,</l>
+                  <l>Nor (in the Rode)</l>
+                  <l>Need Paſſengers ſay, Speed you <hi>Sirs</hi>
+                  </l>
+                  <l>i'th Name of God.</l>
+               </lg>
+            </div>
+            <div n="14" type="song">
+               <head>
+                  <hi>The XIIII. Hymn</hi> Celebrates the great Victory in <hi>Scotland,</hi> at <hi>Dunbar</hi>-Field, and the ſeveral Succeſſes there ſince.<note place="margin">Sept. 3. 1650.</note>
+               </head>
+               <lg>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſa.</hi> 98, 1</note>SIng to the Lord a new-made Song,</l>
+                  <l>for he hath marvels done;</l>
+                  <l>His holy hand and arm moſt ſtrong</l>
+                  <l>the victory hath won.</l>
+                  <l>
+                     <note place="margin">
+                        <hi>&amp;</hi> 124.1, 2.</note>Had not the Lord been on our ſide,</l>
+                  <l>now
+<list>
+                        <item>
+                           <hi>Iſrael</hi>
+                        </item>
+                        <item>
+                           <hi>England</hi> ſure</item>
+                     </list> may ſay,</l>
+                  <l>When
+<list>
+                        <item>Enemies</item>
+                        <item>
+                           <hi>Scotland</hi>
+                        </item>
+                     </list> roſe in ſo much pride,</l>
+                  <l>they had us ſpoyl'd that day.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Had not the Lord his pow'r reveal'd</l>
+                  <l>our part and cauſe to own,</l>
+                  <l>To whom both they and we appeal'd,</l>
+                  <l>we had been overthrown.</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſ.</hi> 18.46</note>But bleſſed be our Rock of pow'r</l>
+                  <l>that ever doth abide,</l>
+                  <pb n="35" facs="tcp:169736:18"/>
+                  <l>And pleaſed was that day and hour</l>
+                  <l>the difference to decide.<note place="margin">
+                        <hi>Joel</hi> 3.14</note>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>He hath our Right and Cauſe maintain'd</l>
+                  <l>in all the peoples ſight:<note place="margin">
+                        <hi>Pſa.</hi> 9.4.</note>
+                  </l>
+                  <l>He ſat (as Lord and King, and reign'd)</l>
+                  <l>in the Throne, judging Right:</l>
+                  <l>He throughly pleads our cauſe with thoſe</l>
+                  <l>that ſought us to moleſt,</l>
+                  <l>And hath diſquieted our foes,<note place="margin">
+                        <hi>Jerem.</hi> 50.34.</note>
+                  </l>
+                  <l>that he might give us Reſt.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>We
+<list>
+                        <item>
+                           <note n="*" place="margin">Deſiring only a ſa<g ref="char:EOLhyphen"/>tisfying Security. <hi>Pſ.</hi> 120.7</note> yeelded</item>
+                        <item>marched</item>
+                     </list> to them very far,</l>
+                  <l>deſiring peace to make;</l>
+                  <l>But when we ſpake, they were for war,</l>
+                  <l>in which we did them take.</l>
+                  <l>As for the Lord, his Word is try'd,<note place="margin">
+                        <hi>&amp;</hi> 18.30</note>
+                  </l>
+                  <l>his way is perfect, pure:</l>
+                  <l>To all that have on him rely'd</l>
+                  <l>he is a Buckler ſure.</l>
+               </lg>
+               <div n="2" type="part">
+                  <head>The ſecond Part.</head>
+                  <lg>
+                     <l>O bleſſed be the Lord my might,<note place="margin">
+                           <hi>&amp;</hi> 144.1</note>
+                     </l>
+                     <l>who
+<list>
+                           <item>in the war-like</item>
+                           <item>hath in <hi>Dunbar</hi>
+                           </item>
+                        </list> Field</l>
+                     <l>My hands and fingers taught to fight,<note place="margin">
+                           <hi>&amp;</hi> 18.16</note>
+                     </l>
+                     <l>who was my ſtrength and ſhield:</l>
+                     <pb n="36" facs="tcp:169736:19"/>
+                     <l>Who ſent from Heaven, and took me</l>
+                     <l>and drew me from the deep;</l>
+                     <l>From hateful foes, both ſtrong &amp; ſtout<note n="*" place="margin">When encom<g ref="char:EOLhyphen"/>paſſed a<g ref="char:EOLhyphen"/>bout. <hi>Pſ.</hi> 18.17</note> out,</l>
+                     <l>he did me ſafely keep.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 18, 19</note>My ſtronger foes prevented me</l>
+                     <l>in that ſo dangerous day,</l>
+                     <l>They threatned my calamity,</l>
+                     <l>but God was then my ſtay.</l>
+                     <l>Into a place<note n="*" place="margin">Edin<g ref="char:EOLhyphen"/>burgh <hi>and</hi> Leith.</note> ſecure and free</l>
+                     <l>my Soul he quickly brought:</l>
+                     <l>Becauſe he took delight in me,</l>
+                     <l>he my deliverance wrought.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>He ſets me on the Places<note n="*" place="margin">
+                           <hi>The Caſtles of</hi> Edinburgh St Iohn<g ref="char:EOLhyphen"/>ſtons, Star<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing, &amp;c. Pſ. <hi>18.32</hi>
+                        </note> high,</l>
+                     <l>by conqueſt mine they are:</l>
+                     <l>He taught my hands the faculty</l>
+                     <l>of exerciſing War.</l>
+                     <l>The Lord it is that girds and bindes</l>
+                     <l>my Soul with Power ſo great,</l>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 33.</note>He makes my feet like feet of Hindes,</l>
+                     <l>and makes my way compleat.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>The third Part.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 37, 38.</note>I have purſu'd our foes that fled,</l>
+                     <l>and alſo overta'ne,</l>
+                     <l>And till they were extinguiſhed</l>
+                     <l>I did not turn again.</l>
+                     <l>They had not ſtrength enough to riſe,</l>
+                     <l>I wounded them ſo ſore;</l>
+                     <pb n="37" facs="tcp:169736:19"/>
+                     <l>Beneath my feet mine Enemies</l>
+                     <l>are faln in bloody gore:</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Thou girdeſt me with fortitude</l>
+                     <l>to battel with my foes,<note place="margin">
+                           <hi>v.</hi> 39, 40</note>
+                     </l>
+                     <l>And under me haſt them ſubdu'd</l>
+                     <l>that up againſt me roſe.</l>
+                     <l>Mine Enemies necks into my hand,</l>
+                     <l>are given me by thee,</l>
+                     <l>That I might root out of the Land</l>
+                     <l>all them that hated me.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Loud ſhrieks and cries they multiply'd,<note place="margin">
+                           <hi>v.</hi> 41, 42</note>
+                     </l>
+                     <l>but there was none to ſave;</l>
+                     <l>Yea, even to the Lord they cry'd,</l>
+                     <l>but he no anſwer gave.</l>
+                     <l>As ſmall as duſt that's blown about</l>
+                     <l>when boyſterous winds do meet,</l>
+                     <l>I beat my foes, and caſt them out</l>
+                     <l>as dirt into the ſtreet.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Above them thou haſt rais'd my head,</l>
+                     <l>that did my hurt conſpire;<note place="margin">
+                           <hi>v.</hi> 48, 49</note>
+                     </l>
+                     <l>And me from him delivered,</l>
+                     <l>whom fury ſet on fire.</l>
+                     <l>Amongſt the people, for this thing,</l>
+                     <l>thy praiſes I'l proclaim,</l>
+                     <l>And cheerful ſongs of triumph ſing</l>
+                     <l>to thy victorious Name.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="15" type="song">
+               <pb n="38" facs="tcp:169736:20"/>
+               <head>
+                  <note place="margin">Sept. 3. 1651.</note>
+                  <hi>The XV. Hymn</hi> Celebrates the great Victory at Worceſter, &amp;c.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſal.</hi> 98.1. <hi>&amp;</hi> 124 1, 2.</note>SIng to the Lord a new-made Song,</l>
+                     <l>for he hath marvels done;</l>
+                     <l>His holy hand and arm moſt ſtrong</l>
+                     <l>the victory hath won.</l>
+                     <l>Had not the Lord been on our ſide,</l>
+                     <l>now
+<list>
+                           <item>
+                              <hi>Iſrael</hi>
+                           </item>
+                           <item>
+                              <hi>England</hi> ſure</item>
+                        </list> may ſay,</l>
+                     <l>When
+<list>
+                           <item>Foes</item>
+                           <item>
+                              <hi>Scots</hi>
+                           </item>
+                        </list> came on in ſo much pride,</l>
+                     <l>they had us ſpoyl'd this day.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Had not the Lord his pow'r reveal'd</l>
+                     <l>our part and cauſe to own,</l>
+                     <l>(To whom both they and we appeal'd)</l>
+                     <l>we had been overthrown:</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 18.46</note>But bleſſed be our Rock of Pow'r</l>
+                     <l>that ever doth abide,</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Joel</hi> 3.14</note>And plea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d was this day and hour</l>
+                     <l>the difference to decide.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>He hath our Right and Cauſe maintain'd</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſal</hi> 9.4.</note>in all the peoples ſight:</l>
+                     <l>He ſat (as Lord and King, and reign'd)</l>
+                     <l>in the Throne, judging Right.</l>
+                     <pb n="39" facs="tcp:169736:20"/>
+                     <l>He throughly pleads our cauſe with thoſe</l>
+                     <l>that ſought us to moleſt,<note place="margin">
+                           <hi>Jer.</hi> 50.34.</note>
+                     </l>
+                     <l>And hath diſquieted our Foes,</l>
+                     <l>that he might give us Reſt.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>As for the Lord, his Word is try'd,</l>
+                     <l>his way is perfect, pure:<note place="margin">
+                           <hi>Pſ.</hi> 18.30</note>
+                     </l>
+                     <l>To all that have on him rely'd</l>
+                     <l>he is a Buckler ſure.</l>
+                     <l>The Lord it is that girds and bindes</l>
+                     <l>our Soul with Power ſo great,</l>
+                     <l>He makes our feet like feet of Hindes,<note place="margin">
+                           <hi>v.</hi> 32, 33.</note>
+                     </l>
+                     <l>and makes our way compleat.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>He ſets us on the places high,<note place="margin">
+                           <hi>Pſ.</hi> 18.33</note>
+                     </l>
+                     <l>by conqueſt ours they are:</l>
+                     <l>He taught our hands the faculty</l>
+                     <l>of exerciſing War.</l>
+                     <l>We have purſu'd our foes that fled,<note place="margin">
+                           <hi>v.</hi> 37.</note>
+                     </l>
+                     <l>and alſo overta'ne,</l>
+                     <l>And till they were extinguiſhed</l>
+                     <l>we did not turn again.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>They had not ſtrength enough to riſe,<note place="margin">
+                           <hi>v.</hi> 38.</note>
+                     </l>
+                     <l>we wounded them ſo ſore;</l>
+                     <l>Beneath our feet our Enemies</l>
+                     <l>are faln in bloody gore:</l>
+                     <l>Loud ſhrieks and cries they multiply'd,<note place="margin">
+                           <hi>v.</hi> 41.</note>
+                     </l>
+                     <l>but there was none to ſave;</l>
+                     <pb n="40" facs="tcp:169736:21"/>
+                     <l>Yea, even to the Lord they cry'd,</l>
+                     <l>but he no Anſwer gave.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 42.</note>As ſmall as duſt that's blown about</l>
+                     <l>when boyſtrous winds do meet,</l>
+                     <l>We beat our foes, and caſt them out</l>
+                     <l>as dirt into the ſtreet.</l>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 48.</note>Above them thou haſt rais'd our head,</l>
+                     <l>that did our hurt conſpire,</l>
+                     <l>And us from him delivered,</l>
+                     <l>whom fury ſet on fire.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>v.</hi> 49.</note>Amongſt the people, for this thing,</l>
+                     <l>thy praiſes we'l proclaim,</l>
+                     <l>And cheerful ſongs of triumph ſing</l>
+                     <l>to thy victorious Name.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <l>Praiſe ye the Lord, ſing to the Lord</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 149.1, 2.</note>a new compoſed Song,</l>
+                     <l>His memorable praiſe record</l>
+                     <l>his gather'd Saints among.</l>
+                     <l>Let joyful <hi>Iſrael</hi> ſhout and ſing.</l>
+                     <l>in their Creators Name,</l>
+                     <l>Let <hi>Sions</hi> children in their King</l>
+                     <l>triumphant joys proclaim.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>Heb.</hi> 11.33, 34.</note>Who have through Faith Kingdoms ſubdu'd,</l>
+                     <l>obtained promiſes;</l>
+                     <pb n="41" facs="tcp:169736:21"/>
+                     <l>Eſcap'd the ſword, and thoſe withſtood</l>
+                     <l>that wrought unrighteouſneſs:</l>
+                     <l>Of weak were made ſtrong Champions</l>
+                     <l>waxt valient in fight,</l>
+                     <l>The Armies of the Aliens</l>
+                     <l>they alſo turn'd to flight.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Kings of Armies did flee apace,<note place="margin">
+                           <hi>Pſ.</hi> 68.12</note>
+                     </l>
+                     <l>having receiv'd the foil:</l>
+                     <l>And they that ſtay'd upon the place</l>
+                     <l>did there divide the ſpoil:</l>
+                     <l>He for their ſakes hath Kings controul'd</l>
+                     <l>with his out-ſtretched Arm;<note place="margin">
+                           <hi>Pſ.</hi> 105.14</note>
+                     </l>
+                     <l>Who for to touch his Saints were bold,</l>
+                     <l>or did his Prophets harm.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>The ſpirit of Princes he cuts off,<note place="margin">
+                           <hi>Pſ.</hi> 76.12</note>
+                     </l>
+                     <l>he's terrible to Kings:</l>
+                     <l>He'l recompence their bold offence,<note place="margin">
+                           <hi>Pſ.</hi> 94.23</note>
+                     </l>
+                     <l>and take them in their ſins.</l>
+                     <l>No King is ſav'd by multitude,<note place="margin">
+                           <hi>Pſ.</hi> 33.16</note>
+                     </l>
+                     <l>or by a num'rous Hoſt:</l>
+                     <l>The great and mighty are ſubdu'd,</l>
+                     <l>that did inſult and boaſt.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>The proud are ſcatter'd and deſtroy'd,<note place="margin">
+                           <hi>Lu.</hi> 1.15</note>
+                     </l>
+                     <l>and in the very thing,</l>
+                     <l>Wherein they proudly were employ'd,<note place="margin">
+                           <hi>Exo.</hi> 18 11.</note>
+                     </l>
+                     <l>above them was our King.</l>
+                     <pb n="42" facs="tcp:169736:22"/>
+                     <l>
+                        <note place="margin">Pſal. 20.8</note>They are brought down &amp; faln, but we</l>
+                     <l>are ris'n, and ſtand upright;</l>
+                     <l>
+                        <note place="margin">2 Chron. 32.8.</note>With them an arm of fleſh we ſee,</l>
+                     <l>with us the Lord of might.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>
+                        <note place="margin">Pſa. 144.1</note>Who help'd us, and our battels fought,</l>
+                     <l>covering our heads that day:</l>
+                     <l>Our hands and fingers eke he taught</l>
+                     <l>to war and fight, the way:</l>
+                     <l>We through our God did valiantly;</l>
+                     <l>
+                        <note place="margin">Pſa. 60.12</note>and he it is alone</l>
+                     <l>That hath trod down the Enemy,</l>
+                     <l>the Glory is his own.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>PART III.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">Pſal. 98.1</note>With thy right hand O Lord moſt high</l>
+                     <l>and with thy out-ſtretch'd arm:</l>
+                     <l>Thou get'ſt thy ſelf the victory,</l>
+                     <l>and ſaveſt us from harm.</l>
+                     <l>
+                        <note place="margin">&amp; 118.15</note>The right hand of the Lord our God</l>
+                     <l>hath done moſt valiantly:</l>
+                     <l>The right hand of the Lord our God</l>
+                     <l>it is exalted high.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">Verſe 16</note>The right hand of the Lord our God,</l>
+                     <l>preheminence it has:</l>
+                     <l>The right hand of the Lord our God</l>
+                     <l>brings mighty things to paſs:</l>
+                     <l>
+                        <note place="margin">Pſa. 126.3</note>The Lord does mighty things for us,</l>
+                     <pb n="43" facs="tcp:169736:22"/>
+                     <l>whereof we (ſure) are glad:</l>
+                     <l>Even great and terrible things he does,<note place="margin">Deut. 10, 21.</note>
+                     </l>
+                     <l>we have Experience had.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Thy right hand glorious is in Pow'r,<note place="margin">Exo. 15.6</note>
+                     </l>
+                     <l>and hath victoriouſly,</l>
+                     <l>In peeces daſht this day and hour,</l>
+                     <l>the lofty Enemy.</l>
+                     <l>When thou cam'ſt down in thy great ſtrength,</l>
+                     <l>the Mountains fled away;<note place="margin">Iſ. 64.1, 3</note>
+                     </l>
+                     <l>And at thy preſence they at length</l>
+                     <l>conſumed were that day.<note place="margin">Hab. 3.6, 10.</note>
+                     </l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>As ſmoak is driv'n away,<note place="margin">Pſ. al 78.2 &amp; 35.5</note> ſo they</l>
+                     <l>are driven away we ſee:</l>
+                     <l>And as the chaff before the wind</l>
+                     <l>ſo ſcatter'd all they be.</l>
+                     <l>All thoſe that hated us and thee,<note place="margin">Iſa 17.13 14. &amp; 44 11.</note>
+                     </l>
+                     <l>are fled, and are ſurrounded,</l>
+                     <l>And all incens'd at us, we ſee</l>
+                     <l>aſhamed and confounded.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>Thus thou haſt threſht the Mountains ſmall,</l>
+                     <l>and made the Hills as chaff;<note place="margin">Iſa. 41.15</note>
+                     </l>
+                     <l>In their own counſels lo they fall,<note place="margin">Pſal. 10.5</note>
+                     </l>
+                     <l>and thou thereat doſt laugh:</l>
+                     <l>The counſel which theſe men did take,<note place="margin">&amp; 33.10</note>
+                     </l>
+                     <l>the Lord doth bring to nought,</l>
+                     <l>And their devices fruitleſs make,</l>
+                     <pb n="44" facs="tcp:169736:23"/>
+                     <l>what ere the people thought.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 118.23</note>Thus God hath quell'd our enemies,</l>
+                     <l>this is the LORDS DOING;</l>
+                     <l>And marvelous 'tis in our eyes,</l>
+                     <l>when we behold the Thing.</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 58.10</note>The Righteous (Lord) rejoyce to ſee</l>
+                     <l>the Vengeance thus made good,</l>
+                     <l>And they have waſht their feet with thee</l>
+                     <l>in the ungodly's Blood.</l>
+                  </lg>
+               </div>
+               <div n="4" type="part">
+                  <head>PART IV.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">
+                           <hi>Ex.</hi> 15.3</note>The Lord he is a man of war,</l>
+                     <l>and ſo in theſe our coaſts</l>
+                     <l>He hath appear'd, both near and far;</l>
+                     <l>his Name's the Lord of Hoaſts.</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 24.8.</note>The ſtrong &amp; mighty Lord he's term'd,</l>
+                     <l>the Lord in battel ſtrong:</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Rev.</hi> 3.15</note>Faithful and true, and hath confirm'd</l>
+                     <l>his Word even all along.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>Iſa.</hi> 25.9</note>Lo this God is our God, and we</l>
+                     <l>did on his Promiſe ſtay;</l>
+                     <l>We waited for him, and we ſee</l>
+                     <l>he hath us ſav'd this day.</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Ex.</hi> 15.2</note>Jehovah is our Strength and Song,</l>
+                     <l>and our SALVATION;</l>
+                     <l>He is Our God, we'l him Prepare</l>
+                     <l>an HABITATION.</l>
+                  </lg>
+                  <lg n="3">
+                     <pb n="45" facs="tcp:169736:23"/>
+                     <head>3.</head>
+                     <l>Our fathers God, we'l him exalt,<note place="margin">
+                           <hi>Neh.</hi> 9.5.</note>
+                     </l>
+                     <l>bleſs'd be his glorious Name,</l>
+                     <l>Which is exalted far above</l>
+                     <l>all Bleſſing, Praiſe and Fame:</l>
+                     <l>Who hath triumphed gloriouſly;<note place="margin">
+                           <hi>Ex.</hi> 15.1</note>
+                     </l>
+                     <l>and He is every way,</l>
+                     <l>More Glorious and Excellent</l>
+                     <l>then all the Mounts of prey.<note place="margin">
+                           <hi>Pſ.</hi> 76.4.</note>
+                     </l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Amongſt the gods, who's like to thee?<note place="margin">
+                           <hi>Ex.</hi> 15.11</note>
+                     </l>
+                     <l>glorious in Holineſs!</l>
+                     <l>Fearful in praiſe, wonders we ſee!</l>
+                     <l>none's like thee queſtionleſs:<note place="margin">1 <hi>Sam.</hi> 7.22. <hi>Jer.</hi> 10.7</note>
+                     </l>
+                     <l>Amongſt all Nations is not One</l>
+                     <l>that may compared be!</l>
+                     <l>In all the Kingdoms there is none</l>
+                     <l>(O Lord) that's like to thee!</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>Thou art moſt high o're all the Earth,<note place="margin">
+                           <hi>Pſ.</hi> 83.18 <hi>Pſ.</hi> 46.9. <hi>Pſ.</hi> 118.15. <hi>Iſ.</hi> 59.19 <hi>Jer.</hi> 10.6 &amp; 7.</note>
+                     </l>
+                     <l>thou makeſt wars to ceaſe:</l>
+                     <l>Thou cauſeſt voyce of Joy and Mirth,</l>
+                     <l>and thou createſt Peace.</l>
+                     <l>None's like to thee, for thou art great,</l>
+                     <l>thy Name is great in might:</l>
+                     <l>Who would not fear thee? for to thee</l>
+                     <l>it doth pertain of right.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>Thou, King of Nations doſt appear,</l>
+                     <pb n="46" facs="tcp:169736:24"/>
+                     <l>and haſt a glorious Fame:</l>
+                     <l>
+                        <note place="margin">Rev. 15.4</note>And who, O Lord, would not thee fear,</l>
+                     <l>and glorifie thy Name?</l>
+                     <l>For thou only art Holy Lord,</l>
+                     <l>all Nations ſhall thee fear,</l>
+                     <l>And by them thou ſhalt be ador'd,</l>
+                     <l>for thy Judgments appear.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>
+                        <note place="margin">Rev. 15, 3</note>Thy works are great and marvelous,</l>
+                     <l>which thou doſt in our view;</l>
+                     <l>Lord God Almighty, King of Saints,</l>
+                     <l>thy Ways are Juſt and True.</l>
+                  </lg>
+               </div>
+               <div n="5" type="part">
+                  <head>PART V.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">Cor. 1.27 28.</note>Lord, thou the fooliſh things doſt chooſe</l>
+                     <l>for to confound the Wiſe,</l>
+                     <l>The weak things alſo to confound</l>
+                     <l>the Mighty, in our eyes:</l>
+                     <l>The loweſt and the baſeſt Things,</l>
+                     <l>and things deſpiſed far,</l>
+                     <l>Yea, things which are not, for to bring</l>
+                     <l>to nought the things that are.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>The Mighty thou caſts from the ſeat,</l>
+                     <l>
+                        <note place="margin">Luk. 1.52</note>and doſt exalt the Meek:</l>
+                     <l>
+                        <note place="margin">2 Cor. 12 9</note>Thy ſtrength in weakneſs is compleat,</l>
+                     <l>when unto thee we ſeek:</l>
+                     <l>
+                        <note place="margin">Mat. 12.16</note>Out of the mouth of very babes,</l>
+                     <l>Lord, thou wilt perfect praiſe:</l>
+                     <pb n="47" facs="tcp:169736:24"/>
+                     <l>Thou bringſt down high &amp; mighty ones</l>
+                     <l>and mean ones thou doſt raiſe.<note place="margin">Iſai. 46.5</note>
+                     </l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>The poor deſpiſed Sectaries,</l>
+                     <l>thy Saints, ſo term'd O Lord,</l>
+                     <l>Exalt thou doſt before the Eyes</l>
+                     <l>of thoſe that them abhor'd.</l>
+                     <l>That Way which they call Hereſie,<note place="margin">Act. 24.14</note>
+                     </l>
+                     <l>ſo do we worſhip thee,</l>
+                     <l>In Truth and in Sinceritie,</l>
+                     <l>as thy Appointments be.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Thou upon Princes pour'ſt contempt,<note place="margin">Pſalm 107 40, 41.</note>
+                     </l>
+                     <l>and cauſeſt them to ſtray,</l>
+                     <l>And wander in the Wilderneſs,</l>
+                     <l>where is no (beaten) way:</l>
+                     <l>But ſav'ſt the poor from miſery,</l>
+                     <l>ſet'ſt him on Safety's Rock,</l>
+                     <l>And mak'ſt him up a Family,</l>
+                     <l>like to a num'rous Flock,</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>Theſe things the righteous ſhall behold,<note place="margin">ver. 42, 43</note>
+                     </l>
+                     <l>rejoycing in the ſame,</l>
+                     <l>And all Iniquity control'd,</l>
+                     <l>ſhall ſtop her mouth with ſhame.</l>
+                     <l>Who ſo hath wiſdom from above,</l>
+                     <l>theſe things for to record,</l>
+                     <l>Even they ſhall underſtand the Love</l>
+                     <l>and Kindneſs of the Lord.</l>
+                  </lg>
+                  <lg n="6">
+                     <pb n="48" facs="tcp:169736:25"/>
+                     <head>6.</head>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 85.9.</note>Surely Salvation is at hand,</l>
+                     <l>For thoſe that do him fear,</l>
+                     <l>That Glory may dwell in our Land,</l>
+                     <l>the Lord doth now appear:</l>
+                     <l>
+                        <note place="margin">verſ. 13.</note>Before Him Righteouſneſs ſhall go,</l>
+                     <l>and (where the way was dim,)</l>
+                     <l>Shall now direct our footſteps ſo,</l>
+                     <l>that we may follow him.</l>
+                  </lg>
+               </div>
+               <div n="6" type="part">
+                  <head>PART VI.</head>
+                  <lg>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſ.</hi> 149.5</note>The Saints joyful in Glory be,</l>
+                     <l>and ſing loud on their beds,</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Iſ.</hi> 35.10</note>To <hi>Sion</hi> come, with Songs we ſee,</l>
+                     <l>and Joy upon their Heads:</l>
+                     <l>And in their mouth is Gods high praiſe,</l>
+                     <l>
+                        <note place="margin">
+                           <hi>Pſa.</hi> 149.5, 6.</note>and in their hands a ſword,</l>
+                     <l>T'inflict on heath'niſh peoples ways</l>
+                     <l>the vengeance on Record.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>
+                        <note place="margin">verſ. 9.</note>This Honour Saints have, all of them,</l>
+                     <l>to execute their Doom,</l>
+                     <l>That fight againſt <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>for Antichriſt and <hi>ROME;</hi>
+                     </l>
+                     <l>
+                        <note place="margin">verſ. 8.</note>To puniſh Tyrant-Kings that gave</l>
+                     <l>their power unto the Beaſt,</l>
+                     <l>And Nobles that Ignobly have</l>
+                     <l>aſſiſted him at leaſt.</l>
+                  </lg>
+                  <lg n="3">
+                     <pb n="49" facs="tcp:169736:25"/>
+                     <head>3.</head>
+                     <l>The Lord againſt that <hi>Houſe</hi> aroſe,<note place="margin">Iſai. 31.2.</note>
+                     </l>
+                     <l>that <hi>evil Doers</hi> be,</l>
+                     <l>And eke againſt the <hi>Help</hi> of thoſe</l>
+                     <l>that work Iniquitie.</l>
+                     <l>The young Pretender to the Crown,</l>
+                     <l>is <hi>turn'd back</hi> with Diſgrace;<note place="margin">Ier. 46.5</note>
+                     </l>
+                     <l>Their mighty Ones are beaten down,</l>
+                     <l>and fled away apace.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>They look'd not back for fear and dread</l>
+                     <l>in this their ſetting forth;<note place="margin">Verſe 6.</note>
+                     </l>
+                     <l>But ſore diſmaid, haſted, ſtumbled,</l>
+                     <l>and Fell towards the NORTH.</l>
+                     <l>Their Lords and Lairds no man relieves,</l>
+                     <l>they now are all confin'd:</l>
+                     <l>Their Prince Companion is of Thieves<note n="(a)" place="margin">
+                           <hi>Viz.</hi> of Theeves at ſea, in his pirati<g ref="char:EOLhyphen"/>cal Com<g ref="char:EOLhyphen"/>miſſions; Alſo of Theeves at land, with <hi>Hinde</hi> and others in his perſon if reports of his own party be credited. <hi>Iſai. 1.23</hi>
+                        </note>,</l>
+                     <l>of a Rebellious kind;</l>
+                     <l>Or (if reports be true)</l>
+                     <l>and with Rebellious <hi>Hinde.</hi>
+                     </l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>Lo (Royaliſts) this is the man<note n="b" place="margin">Pſa. 52 7 Dan. 5 22</note>
+                     </l>
+                     <l>that made not God his ſtrength;</l>
+                     <l>Open your eyes, ſee if you can</l>
+                     <l>his Errors now at length:</l>
+                     <l>The wicked ways his father went,</l>
+                     <l>he alſo walked hath,</l>
+                     <l>Hard'ning his heart, would not repent,</l>
+                     <l>and now on him there's Wrath.<note place="margin">2 Chron. 19.2.</note>
+                     </l>
+                  </lg>
+                  <lg n="6">
+                     <pb n="50" facs="tcp:169736:26"/>
+                     <head>6.</head>
+                     <l>
+                        <note place="margin">Gen. 4.14</note>He wanders up and down like <hi>Cain,</hi>
+                     </l>
+                     <l>a
+<list>
+                           <item>Fugitive</item>
+                           <item>Vagabond</item>
+                        </list> this day<note n="*" place="margin">If he be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t, read wandered, hot day, and feared. <hi>Pſ. 107.40 41.</hi>
+                        </note>,</l>
+                     <l>And feareth always to be ſlain,</l>
+                     <l>when met upon the way.</l>
+                     <l>But Saints are ſet on Safety's Rock,</l>
+                     <l>and Triumph in their King:</l>
+                     <l>With Joy together now they flock,</l>
+                     <l>and <hi>HALLEL<g ref="char:V">Ʋ</g>JAHS</hi> ſing.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="poem">
+            <head>Goſpel Mercies.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſalm 117.</hi>
+                  </bibl>
+                  <p>Celebrates Gods Mercy and Truth to us Gentiles in thoſe days of the Gospel.</p>
+               </q>
+            </epigraph>
+            <l>ALl Nations and all people ſing</l>
+            <l>
+               <hi>Jehovah's</hi> noble praiſe;</l>
+            <l>For great's
+<list>
+                  <item>the kindneſs of our King</item>
+                  <item>his merciful kindneſs</item>
+               </list>
+            </l>
+            <l>Towards us in theſe days:</l>
+            <l>His Love to us is marvelous,</l>
+            <l>The Truth of <hi>Jeho-vah,</hi>
+            </l>
+            <l>For ever ſure it doth endure:</l>
+            <l>
+               <hi>Halle, Halle lu-jah.</hi>
+            </l>
+            <l>
+               <hi>Amen, Hallelujah.</hi>
+            </l>
+            <div n="100" type="Psalm">
+               <pb n="51" facs="tcp:169736:26"/>
+               <head>Or thus, as the 100 Pſalm.</head>
+               <l>ALl Nations raiſe your voyce theſe days,</l>
+               <l>To ſing <hi>Jehovah's</hi> noble praiſe:</l>
+               <l>All people thus praiſe him with Us,</l>
+               <l>For great's his Love, and marvelous.</l>
+               <l>His Truth is ſure, and doth endure,</l>
+               <l>Not any age ſhall it obſcure:</l>
+               <l>Great <hi>Jehovah</hi> praiſe ye,<note n="*" place="margin">
+                     <hi>Pſ.</hi> 68.32.</note> 
+                  <hi>Selah,</hi>
+               </l>
+               <l>And ſing with us <hi>Hallelujah.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="52" facs="tcp:169736:27"/>
+            <head>Poſt-ſcript.</head>
+            <lg>
+               <l>REader, Theſe <hi>Hymns</hi> and <hi>Pſalms</hi> thou haſt</l>
+               <l>here publiſhed, are but a Taſte</l>
+               <l>Of thoſe the <hi>Author</hi> will produce,</l>
+               <l>
+                  <hi>yet more compleat,</hi> for publike uſe.</l>
+               <l>Theſe <hi>firſt</hi> were needful for thy view,</l>
+               <l>the other ſhortly will enſue.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Old Pſalms</hi> ſome not Reliſhing,</l>
+               <l>in Publike, have <hi>left off</hi> to ſing;</l>
+               <l>So many faults they have espy'd,</l>
+               <l>but theſe by <hi>Him</hi> are Rectifi'd:</l>
+               <l>And ſure when <hi>His</hi> they ſhall peruſe,</l>
+               <l>they'l ſing again that now refuſe.</l>
+            </lg>
+            <lg>
+               <l>If <hi>ſinging</hi> be the <hi>work of Heaven,</hi>
+               </l>
+               <l>then ſcarcely one in ſix or ſeven,</l>
+               <l>That are ſo backward to't on Earth,</l>
+               <l>are fit for that ſame <hi>place of mirth;</hi>
+               </l>
+               <l>But thoſe who <hi>well</hi> them <hi>thus</hi> employ,</l>
+               <l>ſhall enter to their Maſters Joy.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Pro. 26.31 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſa. 51.11 &amp; 35.10</note>Then ſay not, <hi>in the way's a Lion,</hi>
+               </l>
+               <l>but come with ſinging unto <hi>Zion:</hi>
+               </l>
+               <l>And now no more make an <hi>excuſe,</hi>
+               </l>
+               <l>for to <hi>neglect</hi> the precious <hi>uſe</hi>
+               </l>
+               <l>Of this ſweet <hi>Goſpel-Ordinance,</hi>
+               </l>
+               <l>that doth ſo much Gods praiſe advance.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:169736:27"/>
+            <head>To the Author, on theſe Hymns, and his ſweet Tranſlation of the Pſalmes.</head>
+            <l>What J out of thy treaſurie ſheW the times require for publike vieW</l>
+            <l>
+               <hi>I</hi> ſhould Ingratefull bee if <hi>I</hi> should hide ſuch heavenlI poes <hi>I</hi>
+            </l>
+            <l>Let now alL judge who doth excelL who may wee calL thy paralleL</l>
+            <l>Long mayſt thou Live ſing forth &amp; telL gods praiſe a Loud in jsraeL</l>
+            <l>Isr'els ſweet pſalmiſt, <hi>I</hi> will ſaI thou worthilI art ſtil'd this daI</l>
+            <l>Amongst thoſe that ſing Alle-lujA in All jsraell, or judA</l>
+            <l>Mayst thou fitly have a naM with david, moſes, miriaM</l>
+            <l>Brave ſpirits and gifts had caleB, joB as Brave methinkes, do thee enroB</l>
+            <l>
+               <hi>A</hi> ſpirit of praiſe, As deborA barak, Aſaph, eliathA</l>
+            <l>Refreſhing pſalms, Rich jewels aR with which, no Rubies may compaR</l>
+            <l>Thy ayme in Thine, thou hast expresT to ſerve god with The very besT</l>
+            <l>Our <hi>Old</hi> wee'l leave, for ſuch, and sO will with <hi>new ſongs tO zion gO</hi>
+            </l>
+            <l>Now god hath ſuch great wonders doN let endleſſe praiſe be carried oN</l>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:169736:28"/>
+            <pb facs="tcp:169736:28"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <dateline>
+                  <date>Octob. 13. 1651.</date>
+               </dateline>
+               <signed>Joſeph Caryl</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
